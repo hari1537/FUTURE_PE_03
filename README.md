@@ -12,7 +12,11 @@ Build SEO content cluster using AI prompts
 - Consultation Cost Hyderabad
 
 ## 🧠 Prompts Used
-(Paste all prompts)
+Prompt for Pillar Blog (Main Article)
+Prompt for Supporting Blogs (Content Cluster)
+Prompt for Writing Supporting Blog Content
+Prompt for SEO Blog Outline (H1–H3)
+Prompt for Local SEO Optimization
 
 ## 📝 Content Created
 - Pillar Blog
